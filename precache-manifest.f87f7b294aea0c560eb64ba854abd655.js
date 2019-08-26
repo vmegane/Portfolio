@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "67910a24ef067bf5dc2400ab841889c4",
-    "url": "/Portfolio/static/media/github.67910a24.svg"
+    "revision": "f986319838f459296244d999d2591513",
+    "url": "/Portfolio/static/media/ember.f9863198.png"
   },
   {
-    "revision": "bbf5b1d8fe4a307f0cbd",
-    "url": "/Portfolio/static/css/main.aaaf228d.chunk.css"
+    "revision": "7aacba7017934d50e82b",
+    "url": "/Portfolio/static/css/main.867d8acf.chunk.css"
   },
   {
-    "revision": "f6f7402ac98ef5fc6f53",
-    "url": "/Portfolio/static/js/1.f6f7402a.chunk.js"
+    "revision": "fa5be7429db0bdfd074a",
+    "url": "/Portfolio/static/js/1.fa5be742.chunk.js"
   },
   {
     "revision": "3b96116072eb85f5a3a2",
@@ -24,20 +24,24 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/memory.2393363c.jpg"
   },
   {
+    "revision": "de86067c28d74afc6fe2b4abe4ba271c",
+    "url": "/Portfolio/static/media/roomies.de86067c.png"
+  },
+  {
+    "revision": "7aacba7017934d50e82b",
+    "url": "/Portfolio/static/js/main.7aacba70.chunk.js"
+  },
+  {
     "revision": "73e8a8ac6fa479ec19e5fe0cb7a81c01",
     "url": "/Portfolio/static/media/linkedin.73e8a8ac.svg"
   },
   {
-    "revision": "bbf5b1d8fe4a307f0cbd",
-    "url": "/Portfolio/static/js/main.bbf5b1d8.chunk.js"
+    "revision": "67910a24ef067bf5dc2400ab841889c4",
+    "url": "/Portfolio/static/media/github.67910a24.svg"
   },
   {
     "revision": "b050376405aaf7b4ca36ca34149f9b30",
     "url": "/Portfolio/static/media/instagram.b0503764.svg"
-  },
-  {
-    "revision": "06468580303d77d9afd2801a2ca80086",
-    "url": "/Portfolio/static/media/facebook.06468580.svg"
   },
   {
     "revision": "2ebedcc2a99a1366d319fc55fb609a44",
@@ -52,7 +56,7 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/bg-image-iceland.d4739f5a.jpg"
   },
   {
-    "revision": "d93f35777badee79b00c1ee5ee4da976",
+    "revision": "6ca7be046f418f8c65c190d7e0002c3d",
     "url": "/Portfolio/index.html"
   }
 ];
